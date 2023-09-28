@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/pranavwaykar/](https://www.linkedin.com/in/pranavwaykar/)
 
-- 💬 Ask me about **JavaScript, React, Redux**
+- 💬 Ask me about **JavaScript, React, Redux, Node, Java, Sql**
 
 - 📫 How to reach me **waykarpranav777@gmail.com**
 
