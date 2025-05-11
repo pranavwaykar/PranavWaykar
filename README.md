@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Pranav Waykar</h1>
-<h3 align="center">A Software Engineer with expertise in technologies like JavaScript, React, Redux, Java, and more. I have a deep affection for my keyboard, and I find joy in crafting applications with JavaScript, whether it's on the frontend or the backend. Nonetheless, my heart lies in frontend development. If you're seeking someone to infuse your team with both humor and a wealth of coding skills, your search may have just ended!</h3>
+<h3 align="center">A Software Engineer with expertise in technologies like JavaScript, React, Redux, Rest and more. I have a deep affection for my keyboard, and I find joy in crafting applications with JavaScript, whether it's on the frontend or the backend. Nonetheless, my heart lies in frontend development. If you're seeking someone to infuse your team with both humor and a wealth of coding skills, your search may have just ended!</h3>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
