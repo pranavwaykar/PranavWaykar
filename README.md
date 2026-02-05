@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋🏻‍♂️, I'm Pranav Waykar</h1>
+<h1 align="center">Hi 🤵🏻, I'm Pranav Waykar</h1>
 
 <h3 align="center">
 Full-Stack Software Engineer with 3+ years of experience building scalable, high-performance web applications using React, Node.js, Java, PHP, and AWS. 
