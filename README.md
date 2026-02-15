@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤵🏻, I'm Pranav Waykar</h1>
 
 <h3 align="center">
-Full-Stack Software Engineer with 3+ years of experience building scalable, high-performance web applications using React, Node.js, Java, PHP, and AWS. 
+Full-Stack Software Engineer with 3+ years of experience building scalable, high-performance web applications using React, Node.js, Java, PHP, .Net and AWS/Azure. 
 I enjoy designing clean user interfaces, developing robust backend APIs, and shipping reliable end-to-end systems. 
 While frontend is my core strength, I love working across the stack to turn ideas into production-ready products. 
 If you're looking for someone who brings strong engineering skills along with positive team energy — you’re in the right place!
