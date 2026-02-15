@@ -13,11 +13,9 @@ If you're looking for someone who brings strong engineering skills along with po
 
 - 🌱 I’m currently learning System Design & Cloud Architecture
 
-- 👨‍💻 All of my projects are available at [https://portfolio-pranavwaykar.netlify.app/](https://portfolio-pranavwaykar.netlify.app/)
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/pranavwaykar/](https://www.linkedin.com/in/pranavwaykar/)
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Java, PHP, REST APIs, AWS, System Design**
+- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Java, PHP, .Net, REST APIs, AWS, Azure, System Design**
 
 - 📫 How to reach me **pranavwaykarofficial@gmail.com**
 
